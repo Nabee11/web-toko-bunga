@@ -1,0 +1,14 @@
+<html>
+<body>
+
+<form>
+
+<label for="nama" >Nama</label>
+<input type="text" id="nama"> 
+
+</form>
+
+
+</body>
+
+</html>
