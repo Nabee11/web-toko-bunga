@@ -9,6 +9,9 @@
 <label for="alamat">Alamat</label>
 <input type="text" id="alamat">
 
+<label for="email">Email</label>
+<input type="email" id="email">
+
 </form>
 
 
