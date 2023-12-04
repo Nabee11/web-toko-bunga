@@ -9,6 +9,7 @@
 <label for="alamat">Alamat</label>
 <input type="text" id="alamat">
 
+
 <label for="no_telp">No. Telp</label>
 <input type="text" id="no_telp">
 
